@@ -12,7 +12,7 @@ class Card {
 	 * 5355 5555 5555 4444 => valid test Mastercard test number
 	 * 4111111111111111 => valit test Visa card number
 	 * 4111 1111 1111 1111 => valit test Visa card number
-	 * 5060 5555 5555 5555 888 => valid Verve test card number
+	 * 5061 5555 5555 5555 888 => valid Verve test card number
 	 * 5061 5555 5555 5555 => valid Verve test card number
 	 * 5080555555555555 => valid Verve test card number
 	 * 5061555555555555888 => valid Verve test card number
